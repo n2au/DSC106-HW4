@@ -1,0 +1,614 @@
+[
+  {
+    "Time": "11:15",
+    "Character": "Dobby",
+    "Catagory": "Creature",
+    "Elapsed": 675
+  },
+  {
+    "Time": "3:30",
+    "Character": "Nagini",
+    "Catagory": "Creature",
+    "Elapsed": 210
+  },
+  {
+    "Time": "1:45",
+    "Character": "Aragog",
+    "Catagory": "Creature",
+    "Elapsed": 105
+  },
+  {
+    "Time": "3:30",
+    "Character": "Fang",
+    "Catagory": "Creature",
+    "Elapsed": 210
+  },
+  {
+    "Time": "1:30",
+    "Character": "Firenze",
+    "Catagory": "Creature",
+    "Elapsed": 90
+  },
+  {
+    "Time": "1:45",
+    "Character": "Grawp",
+    "Catagory": "Creature",
+    "Elapsed": 105
+  },
+  {
+    "Time": "3:15",
+    "Character": "Fawkes",
+    "Catagory": "Creature",
+    "Elapsed": 195
+  },
+  {
+    "Time": "3:00",
+    "Character": "Bogrod",
+    "Catagory": "Creature",
+    "Elapsed": 180
+  },
+  {
+    "Time": "6:15",
+    "Character": "Hedwig",
+    "Catagory": "Creature",
+    "Elapsed": 375
+  },
+  {
+    "Time": "3:00",
+    "Character": "Kreacher",
+    "Catagory": "Creature",
+    "Elapsed": 180
+  },
+  {
+    "Time": "7:15",
+    "Character": "Griphook",
+    "Catagory": "Creature",
+    "Elapsed": 435
+  },
+  {
+    "Time": "8:00",
+    "Character": "Buckbeak",
+    "Catagory": "Creature",
+    "Elapsed": 480
+  },
+  {
+    "Time": "1:45",
+    "Character": "Crookshanks",
+    "Catagory": "Creature",
+    "Elapsed": 105
+  },
+  {
+    "Time": "1:30",
+    "Character": "Sir Nicholas 'Nearly-Headless Nick'",
+    "Catagory": "Gryffindor",
+    "Elapsed": 90
+  },
+  {
+    "Time": "539:15",
+    "Character": "Harry Potter",
+    "Catagory": "Gryffindor",
+    "Elapsed": 32355
+  },
+  {
+    "Time": "211:45",
+    "Character": "Ron Weasley",
+    "Catagory": "Gryffindor",
+    "Elapsed": 12705
+  },
+  {
+    "Time": "205:00",
+    "Character": "Hermione Granger",
+    "Catagory": "Gryffindor",
+    "Elapsed": 12300
+  },
+  {
+    "Time": "77:15",
+    "Character": "Albus Dumbledore",
+    "Catagory": "Gryffindor",
+    "Elapsed": 4635
+  },
+  {
+    "Time": "45:45",
+    "Character": "Rubeus Hagrid",
+    "Catagory": "Gryffindor",
+    "Elapsed": 2745
+  },
+  {
+    "Time": "30:15",
+    "Character": "Ginny Weasley",
+    "Catagory": "Gryffindor",
+    "Elapsed": 1815
+  },
+  {
+    "Time": "20:45",
+    "Character": "Sirius Black",
+    "Catagory": "Gryffindor",
+    "Elapsed": 1245
+  },
+  {
+    "Time": "28:45",
+    "Character": "Minerva McGonagall",
+    "Catagory": "Gryffindor",
+    "Elapsed": 1725
+  },
+  {
+    "Time": "26:00",
+    "Character": "Remus Lupin",
+    "Catagory": "Gryffindor",
+    "Elapsed": 1560
+  },
+  {
+    "Time": "19:45",
+    "Character": "Fred Weasley",
+    "Catagory": "Gryffindor",
+    "Elapsed": 1185
+  },
+  {
+    "Time": "20:15",
+    "Character": "George Weasley",
+    "Catagory": "Gryffindor",
+    "Elapsed": 1215
+  },
+  {
+    "Time": "28:15",
+    "Character": "Neville Longbottom",
+    "Catagory": "Gryffindor",
+    "Elapsed": 1695
+  },
+  {
+    "Time": "9:45",
+    "Character": "Molly Weasley",
+    "Catagory": "Gryffindor",
+    "Elapsed": 585
+  },
+  {
+    "Time": "15:45",
+    "Character": "Arthur Weasley",
+    "Catagory": "Gryffindor",
+    "Elapsed": 945
+  },
+  {
+    "Time": "2:45",
+    "Character": "Katie Bell",
+    "Catagory": "Gryffindor",
+    "Elapsed": 165
+  },
+  {
+    "Time": "8:15",
+    "Character": "Peter Pettigrew",
+    "Catagory": "Gryffindor",
+    "Elapsed": 495
+  },
+  {
+    "Time": "1:45",
+    "Character": "Bill Weasley",
+    "Catagory": "Gryffindor",
+    "Elapsed": 105
+  },
+  {
+    "Time": "5:00",
+    "Character": "Percy Weasley",
+    "Catagory": "Gryffindor",
+    "Elapsed": 300
+  },
+  {
+    "Time": "9:45",
+    "Character": "Seamus Finnigan",
+    "Catagory": "Gryffindor",
+    "Elapsed": 585
+  },
+  {
+    "Time": "2:15",
+    "Character": "James Potter",
+    "Catagory": "Gryffindor",
+    "Elapsed": 135
+  },
+  {
+    "Time": "2:30",
+    "Character": "Cormac McLaggen",
+    "Catagory": "Gryffindor",
+    "Elapsed": 150
+  },
+  {
+    "Time": "2:00",
+    "Character": "Romilda Vane",
+    "Catagory": "Gryffindor",
+    "Elapsed": 120
+  },
+  {
+    "Time": "3:30",
+    "Character": "Lily Potter",
+    "Catagory": "Gryffindor",
+    "Elapsed": 210
+  },
+  {
+    "Time": "6:45",
+    "Character": "Dean Thomas",
+    "Catagory": "Gryffindor",
+    "Elapsed": 405
+  },
+  {
+    "Time": "4:45",
+    "Character": "Parvati Patil",
+    "Catagory": "Gryffindor",
+    "Elapsed": 285
+  },
+  {
+    "Time": "4:30",
+    "Character": "Oliver Wood",
+    "Catagory": "Gryffindor",
+    "Elapsed": 270
+  },
+  {
+    "Time": "5:30",
+    "Character": "Lavender Brown",
+    "Catagory": "Gryffindor",
+    "Elapsed": 330
+  },
+  {
+    "Time": "1:45",
+    "Character": "Angelina Johnson",
+    "Catagory": "Gryffindor",
+    "Elapsed": 105
+  },
+  {
+    "Time": "3:00",
+    "Character": "Nigel",
+    "Catagory": "Gryffindor",
+    "Elapsed": 180
+  },
+  {
+    "Time": "5:00",
+    "Character": "Nymphadora Tonks",
+    "Catagory": "Hufflepuff",
+    "Elapsed": 300
+  },
+  {
+    "Time": "6:45",
+    "Character": "Cho Chang",
+    "Catagory": "Hufflepuff",
+    "Elapsed": 405
+  },
+  {
+    "Time": "8:15",
+    "Character": "Cedric Diggory",
+    "Catagory": "Hufflepuff",
+    "Elapsed": 495
+  },
+  {
+    "Time": "2:00",
+    "Character": "Pomona Sprout",
+    "Catagory": "Hufflepuff",
+    "Elapsed": 120
+  },
+  {
+    "Time": "8:15",
+    "Character": "Petunia Dursley",
+    "Catagory": "Muggle",
+    "Elapsed": 495
+  },
+  {
+    "Time": "1:30",
+    "Character": "Frank Bryce",
+    "Catagory": "Muggle",
+    "Elapsed": 90
+  },
+  {
+    "Time": "11:00",
+    "Character": "Vernon Dursley",
+    "Catagory": "Muggle",
+    "Elapsed": 660
+  },
+  {
+    "Time": "9:45",
+    "Character": "Dudley Dursley",
+    "Catagory": "Muggle",
+    "Elapsed": 585
+  },
+  {
+    "Time": "2:45",
+    "Character": "Marge Dursley",
+    "Catagory": "Muggle",
+    "Elapsed": 165
+  },
+  {
+    "Time": "2:45",
+    "Character": "Moaning Myrtle",
+    "Catagory": "Ravenclaw",
+    "Elapsed": 165
+  },
+  {
+    "Time": "17:15",
+    "Character": "Luna Lovegood",
+    "Catagory": "Ravenclaw",
+    "Elapsed": 1035
+  },
+  {
+    "Time": "1:45",
+    "Character": "Marcus Flint",
+    "Catagory": "Ravenclaw",
+    "Elapsed": 105
+  },
+  {
+    "Time": "5:15",
+    "Character": "Professor Filius Flitwick",
+    "Catagory": "Ravenclaw",
+    "Elapsed": 315
+  },
+  {
+    "Time": "4:45",
+    "Character": "Padma Patil",
+    "Catagory": "Ravenclaw",
+    "Elapsed": 285
+  },
+  {
+    "Time": "10:30",
+    "Character": "Gilderoy Lockhart",
+    "Catagory": "Ravenclaw",
+    "Elapsed": 630
+  },
+  {
+    "Time": "2:15",
+    "Character": "Helena Ravenclaw",
+    "Catagory": "Ravenclaw",
+    "Elapsed": 135
+  },
+  {
+    "Time": "7:00",
+    "Character": "Quirinus Quirrell",
+    "Catagory": "Ravenclaw",
+    "Elapsed": 420
+  },
+  {
+    "Time": "5:00",
+    "Character": "Sybil Trelawney",
+    "Catagory": "Ravenclaw",
+    "Elapsed": 300
+  },
+  {
+    "Time": "5:00",
+    "Character": "Xenophilius Lovegood",
+    "Catagory": "Ravenclaw",
+    "Elapsed": 300
+  },
+  {
+    "Time": "7:15",
+    "Character": "Mr. Ollivander",
+    "Catagory": "Ravenclaw",
+    "Elapsed": 435
+  },
+  {
+    "Time": "37:15",
+    "Character": "Voldemort",
+    "Catagory": "Slytherin",
+    "Elapsed": 2235
+  },
+  {
+    "Time": "43:15",
+    "Character": "Severus Snape",
+    "Catagory": "Slytherin",
+    "Elapsed": 2595
+  },
+  {
+    "Time": "31:45",
+    "Character": "Draco Malfoy",
+    "Catagory": "Slytherin",
+    "Elapsed": 1905
+  },
+  {
+    "Time": "15:15",
+    "Character": "Lucius Malfoy",
+    "Catagory": "Slytherin",
+    "Elapsed": 915
+  },
+  {
+    "Time": "10:30",
+    "Character": "Bellatrix Lestrange",
+    "Catagory": "Slytherin",
+    "Elapsed": 630
+  },
+  {
+    "Time": "6:45",
+    "Character": "Narcissa Malfoy",
+    "Catagory": "Slytherin",
+    "Elapsed": 405
+  },
+  {
+    "Time": "2:30",
+    "Character": "Blaise Zabini",
+    "Catagory": "Slytherin",
+    "Elapsed": 150
+  },
+  {
+    "Time": "7:45",
+    "Character": "Gregory Goyle",
+    "Catagory": "Slytherin",
+    "Elapsed": 465
+  },
+  {
+    "Time": "6:15",
+    "Character": "Vincent Crabbe",
+    "Catagory": "Slytherin",
+    "Elapsed": 375
+  },
+  {
+    "Time": "18:45",
+    "Character": "Horace Slughorn",
+    "Catagory": "Slytherin",
+    "Elapsed": 1125
+  },
+  {
+    "Time": "1:45",
+    "Character": "Albus Severus Potter",
+    "Catagory": "Slytherin",
+    "Elapsed": 105
+  },
+  {
+    "Time": "3:30",
+    "Character": "Scabior",
+    "Catagory": "Slytherin",
+    "Elapsed": 210
+  },
+  {
+    "Time": "16:00",
+    "Character": "Dolores Umbridge",
+    "Catagory": "Slytherin",
+    "Elapsed": 960
+  },
+  {
+    "Time": "3:30",
+    "Character": "Alastor 'Mad-Eye' Moody",
+    "Catagory": "Unknown",
+    "Elapsed": 210
+  },
+  {
+    "Time": "3:30",
+    "Character": "Aberforth Dumbledore",
+    "Catagory": "Unknown",
+    "Elapsed": 210
+  },
+  {
+    "Time": "6:30",
+    "Character": "Fleur Delacour",
+    "Catagory": "Unknown",
+    "Elapsed": 390
+  },
+  {
+    "Time": "5:15",
+    "Character": "Viktor Krum",
+    "Catagory": "Unknown",
+    "Elapsed": 315
+  },
+  {
+    "Time": "1:45",
+    "Character": "Fenrir Greyback",
+    "Catagory": "Unknown",
+    "Elapsed": 105
+  },
+  {
+    "Time": "2:15",
+    "Character": "Poppy Pomfrey",
+    "Catagory": "Unknown",
+    "Elapsed": 135
+  },
+  {
+    "Time": "2:30",
+    "Character": "Rufus Scrimgeour",
+    "Catagory": "Unknown",
+    "Elapsed": 150
+  },
+  {
+    "Time": "1:45",
+    "Character": "Rolanda Hooch",
+    "Catagory": "Unknown",
+    "Elapsed": 105
+  },
+  {
+    "Time": "2:00",
+    "Character": "Alecto Carrow",
+    "Catagory": "Unknown",
+    "Elapsed": 120
+  },
+  {
+    "Time": "2:00",
+    "Character": "Amycus Carrow",
+    "Catagory": "Unknown",
+    "Elapsed": 120
+  },
+  {
+    "Time": "1:30",
+    "Character": "Amos Diggory",
+    "Catagory": "Unknown",
+    "Elapsed": 90
+  },
+  {
+    "Time": "3:00",
+    "Character": "Mundungus Fletcher",
+    "Catagory": "Unknown",
+    "Elapsed": 180
+  },
+  {
+    "Time": "3:30",
+    "Character": "Rita Skeeter",
+    "Catagory": "Unknown",
+    "Elapsed": 210
+  },
+  {
+    "Time": "1:30",
+    "Character": "Gabrielle Delacour",
+    "Catagory": "Unknown",
+    "Elapsed": 90
+  },
+  {
+    "Time": "2:00",
+    "Character": "Yaxley",
+    "Catagory": "Unknown",
+    "Elapsed": 120
+  },
+  {
+    "Time": "1:30",
+    "Character": "Bathilda Bagshot",
+    "Catagory": "Unknown",
+    "Elapsed": 90
+  },
+  {
+    "Time": "2:00",
+    "Character": "Stan Shunpike",
+    "Catagory": "Unknown",
+    "Elapsed": 120
+  },
+  {
+    "Time": "1:30",
+    "Character": "Arabella Figg",
+    "Catagory": "Unknown",
+    "Elapsed": 90
+  },
+  {
+    "Time": "1:45",
+    "Character": "Mary Cattermole",
+    "Catagory": "Unknown",
+    "Elapsed": 105
+  },
+  {
+    "Time": "16:15",
+    "Character": "Bartemius Crouch Jr.",
+    "Catagory": "Unknown",
+    "Elapsed": 975
+  },
+  {
+    "Time": "5:15",
+    "Character": "Bartemius Crouch Sr.",
+    "Catagory": "Unknown",
+    "Elapsed": 315
+  },
+  {
+    "Time": "9:15",
+    "Character": "Cornelius Fudge",
+    "Catagory": "Unknown",
+    "Elapsed": 555
+  },
+  {
+    "Time": "8:00",
+    "Character": "Argus Filch",
+    "Catagory": "Unknown",
+    "Elapsed": 480
+  },
+  {
+    "Time": "4:30",
+    "Character": "Kingsley Shacklebolt",
+    "Catagory": "Unknown",
+    "Elapsed": 270
+  },
+  {
+    "Time": "3:15",
+    "Character": "Igor Karkaroff",
+    "Catagory": "Unknown",
+    "Elapsed": 195
+  },
+  {
+    "Time": "3:15",
+    "Character": "Olympe Maxime",
+    "Catagory": "Unknown",
+    "Elapsed": 195
+  }
+]
